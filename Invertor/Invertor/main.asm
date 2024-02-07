@@ -11,7 +11,7 @@
  .def msg = r21							; ������� ��� ������ � ������ ��������� (�������� ����)
  .def run = r23
  .def lenght = r20
- //EEEEEEEEEE
+
  // �������� ��� �����
  .equ	Phase1Pl = 7
  .equ	Phase1Mi = 6
